@@ -2,6 +2,11 @@
 
 This is a real-time audio transcription web app using the **Deepgram Streaming API**. It captures audio from the user's microphone and streams it to Deepgram over a WebSocket connection. The final transcriptions are displayed live on the page.
 
+# Demo
+
+https://github.com/user-attachments/assets/382269d1-1d33-4234-8e6c-49132b9ba22c
+
+
 ## 🚀 Features
 - Live microphone input using `getUserMedia`
 - WebSocket connection to Deepgram API
